@@ -1,0 +1,26 @@
+# Build and dependency outputs
+/build/
+/out/
+/.vs/
+/CMakeFiles/
+/CMakeCache.txt
+/vcpkg_installed/
+CMakeUserPresets.json
+
+# Compiled artifacts
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Local archives and temporary files
+*.zip
+*.rar
+*.7z
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
